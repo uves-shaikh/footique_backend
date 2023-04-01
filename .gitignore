@@ -33,6 +33,7 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 package-lock.json
+env
 
 
 ############################

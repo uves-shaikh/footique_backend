@@ -15,7 +15,6 @@
     "@strapi/provider-upload-cloudinary": "^4.8.2",
     "@strapi/strapi": "4.7.1",
     "better-sqlite3": "8.0.1",
-    "heroku": "^8.0.2",
     "strip": "^3.0.0",
     "stripe": "^11.15.0"
   },
